@@ -5,7 +5,7 @@ Welcome to the Hybrid Credit project! This is a project dedicated to advancing f
 
 #### Objectives
 
-The objectives of Hybrid Credit are to provide foundational credit scores, assess creditworthiness, and offer suitable credit options to immigrants navigating the complex landscape of the UK's financial services.
+The objectives of Hybrid Credit are to provide foundational credit scores, assess creditworthiness, and offer suitable credit options to immigrants navigating the complex landscape of the UK's financial services using artificial intelligence.
 
 #### My Role
 
