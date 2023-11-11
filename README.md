@@ -1,5 +1,3 @@
-## Hybrid Credit Project
-
 #### Introduction
 Welcome to the Hybrid Credit project! This is a project dedicated to advancing financial inclusion for immigrants in the UK by harnessing the power of data and machine learning to reshape the financial landscape and provide fair access to credit opportunities.
 
